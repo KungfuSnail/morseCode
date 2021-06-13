@@ -5,6 +5,7 @@ Having a secret alphabet or a secret algorith to communicate is great, but just 
 
 The way it works:
 This program encodes a short hidden message in a normal-looking text file like an email. The program encodes the message by leaving spaces at the end of the lines of the text. The spaces are not visible unless you highlight the text, and even if you do it doesn't look very suspicious. Have a look at the lines below:
+
 A) A simple line of text.  
 
 B) A simple line of text.
