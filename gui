@@ -73,6 +73,9 @@ btnGetFile2.pack(side=TOP)
 
 
 #Default name would be the name of the file we're encoding
+spaceLabel = Label(window2, text=" ", pady=3)
+spaceLabel.pack(side=TOP)
+
 enterFileName_label = Label(window2, text="Enter the export file name:", pady=10, padx=10)
 enterFileName_label.pack(side=TOP)
 enterFileName = Entry(window2, width=10, borderwidth=8)
