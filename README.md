@@ -11,4 +11,4 @@ A) A simple line of text.
 
 B) A simple line of text. 
 
-Both these lines looks the same when you are reading them, but if you select the text and look at it when it is highlighted you will see that A has two spaces at the end of it.
+Both these lines looks the same when you are reading them, but one could have spaces at its end.
