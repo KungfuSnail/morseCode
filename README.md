@@ -9,6 +9,6 @@ This program encodes a short hidden message in a normal-looking text file like a
 A) A simple line of text. 
 
 
-B) A simple line of text. \\
+B) A simple line of text.  \  
 
 Both these lines looks the same when you are reading them, but one could have spaces at its end.
