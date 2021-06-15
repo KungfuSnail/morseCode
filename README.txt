@@ -1,4 +1,5 @@
 # morseCode
+
 A simple way to hide your secret message in plain sight.
 
 Having a secret alphabet or a secret algorith to communicate is great, but just doing that will always attract the curious to try and decode your
