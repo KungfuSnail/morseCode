@@ -1,6 +1,4 @@
 
-# Not complete yet
-
 from tkinter import *
 from tkinter import filedialog
 from encoder_decoder_2 import *
