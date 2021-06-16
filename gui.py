@@ -1,7 +1,7 @@
 
 from tkinter import *
 from tkinter import filedialog
-from encoder_decoder_2 import *
+from decoder_encoder import *
 import os
 from pathlib import Path
 
