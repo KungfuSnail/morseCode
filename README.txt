@@ -15,3 +15,5 @@ A) A simple line of text.
 B) A simple line of text.  
 
 Both these lines looks the same when you are reading them, but B) has 2 spaces at its end.
+
+The spaces represent dots and dashes of a morse code you've encoded in the text file.
